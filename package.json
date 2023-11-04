@@ -1,20 +1,20 @@
 {
-  "name": "@mongez/copper",
-  "version": "1.0.0",
-  "description": "ClI utility to color messages output and other stuff.",
-  "main": "src/index.ts",
-  "keywords": [
-    "colorize",
-    "cli",
-    "terminal",
-    "console",
-    "chalk",
-    "picocolors"
-  ],
-  "author": "hassanzohdy",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/hassanzohdy/copper"
-  },
-  "license": "MIT"
+    "name": "@mongez/copper",
+    "version": "1.0.1",
+    "description": "ClI utility to color messages output and other stuff.",
+    "main": "src/index.ts",
+    "keywords": [
+        "colorize",
+        "cli",
+        "terminal",
+        "console",
+        "chalk",
+        "picocolors"
+    ],
+    "author": "hassanzohdy",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hassanzohdy/copper"
+    },
+    "license": "MIT"
 }
